@@ -25,6 +25,6 @@ ex: http://usr.com/paypal-login/results.php or http://192.xxx.xx.x/paypal-login/
 
 This is simple
 
-Add return url location, change cliend id and secred credentials with the ones under live credentials and remove this line from index.php ( "authend": "sandbox", )
+Add return url location, change client id and secret credentials with the ones under live credentials and remove this line from index.php ( "authend": "sandbox", )
 
 #### This is a small package that i will update as i need it, is a good starting point for someone beggining with PayPal api.
